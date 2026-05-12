@@ -1,8 +1,16 @@
 First git and github session for demo purpose am using this notes.
 
+# to start git follow below comments
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/MonikaFSD/FSD_Demo.git
 git push -u origin main
+
+# to modify and push below three comments are enough
+git add .
+git commit -m "comment"
+git push -u origin main
+
+
